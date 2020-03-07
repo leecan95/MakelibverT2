@@ -1,0 +1,3 @@
+stepmotor.c:31:6:directionOfRotation	24	static
+stepmotor.c:93:6:turnOn	4	static
+stepmotor.c:96:6:miniStep	24	static

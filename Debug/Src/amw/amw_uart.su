@@ -1,0 +1,17 @@
+amw_uart.c:15:6:TimerInit	16	static
+amw_uart.c:20:6:TimerIsExpired	40	static
+amw_uart.c:31:6:TimerCountdownMS	32	static
+amw_uart.c:40:6:TimerCountdown	32	static
+amw_uart.c:49:5:TimerLeftMS	40	static
+amw_uart.c:61:9:amw_write	24	static
+amw_uart.c:67:5:getCmdResponse	56	static
+amw_uart.c:107:5:OsWrapper_read	64	static
+amw_uart.c:143:5:OsWrapper_write	160	static
+amw_uart.c:166:5:setJoinTimeout	160	static
+amw_uart.c:179:5:setCmdMode	152	static
+amw_uart.c:191:5:setupNetwork	152	static
+amw_uart.c:214:5:checkNetworkStatus	152	static
+amw_uart.c:243:5:NetworkInit	160	static
+amw_uart.c:275:5:NetworkConnect	160	static
+amw_uart.c:310:6:NetworkDisconnect	152	static
+amw_uart.c:327:5:isTCPPortOpen	144	static
